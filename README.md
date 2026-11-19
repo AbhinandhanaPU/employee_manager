@@ -5,8 +5,7 @@ A Flutter-based Employee Management Application that allows users to manage empl
 Built using Flutter, Dart, BLoC, Clean Architecture and Hive Database.
 
 ## Screenshots
-
-
+<img src="https://github.com/AbhinandhanaPU/employee_manager/blob/ec385fc02dfca0eb89472bb2ef604662fcf2452e/screenshots/Screenshot%202026-11-19%20162254.png" width="32%"> <img src="https://github.com/AbhinandhanaPU/employee_manager/blob/ec385fc02dfca0eb89472bb2ef604662fcf2452e/screenshots/Screenshot%202026-11-19%20162330.png" width="32%"> <img src="https://github.com/AbhinandhanaPU/employee_manager/blob/ec385fc02dfca0eb89472bb2ef604662fcf2452e/screenshots/Screenshot%202026-11-19%20162345.png" width="32%">
 
 ## Features
 
